@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64267862f49a8dc47a2e986978fb1f96, type: 3}
+  m_Name: LuaConf
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1783361566018088108, guid: 984bdb73d8e315c48b90d239bca3f22a, type: 3}
+  fileExtension: lua
